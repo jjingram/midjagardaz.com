@@ -1,8 +1,6 @@
 ---
 title: Books
-image:
-  path: /assets/img/books.jpg
-  caption: "Photo by Sharon McCutcheon on [Unsplash](https://unsplash.com)"
+layout: page
 ---
 
 # Foundational

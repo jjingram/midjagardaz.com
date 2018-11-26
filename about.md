@@ -1,9 +1,6 @@
 ---
 layout: post
 title: About
-image:
-  path: /assets/img/raven.jpg
-  caption: "Photo by Alexander Sinn on [Unsplash](https://unsplash.com)"
 ---
 
 Hello, I'm Jarrod Jeffrey Ingram and this is my little site I've constructed
