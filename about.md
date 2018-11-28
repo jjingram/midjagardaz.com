@@ -4,8 +4,8 @@ title: About
 ---
 
 Hello, I'm Jarrod Jeffrey Ingram and this is my little site I've constructed
-for my reconstructions of Proto-Germanic traditions. It should be noted that I
-have no formal qualifications in the arts, including linguistics, history, or
+for my reconstructions of Germanic traditions. It should be noted that I have
+no formal qualifications in the arts, including linguistics, history, or
 religion, so take what I say with a grain of salt. I have a completely
 unrelated degree, namely a Bachelor of Computer Science and Technology from the
 University of Sydney.
