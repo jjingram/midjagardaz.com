@@ -129,4 +129,4 @@ ultimately their destiny.
 # Bibliography
 * Jolly, Louise Karen, Catherine Raudvere, and Edward Peters. (2002).
   _Witchcraft and Magic in Europe: The Middle Ages._ Continuum International
-  Publishing Group,
+  Publishing Group.
