@@ -107,7 +107,7 @@ with most sources open to interpretation.
   https://wikisource.org
 * (2011, July 11). _Category:gem-pro:Gods._ Retrived from
   https://wiktionary.org
-* Wallis, Faith (Trans.) (1999). Bede: The Reckoning of Time. Liverpool
+* Wallis, Faith (Trans.) (1999). _Bede: The Reckoning of Time._ Liverpool
   University Press.
 * Ellis Davidson, Hilda. (1964). _Gods and Myths of Northern Europe._ Penguin
   Books Ltd.
