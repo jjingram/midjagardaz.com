@@ -1,6 +1,8 @@
 ---
 title: Celts and Germans
-layout: page
+layout: post
+author: jeffi
+tags: [celts]
 ---
 
 The terms 'Keltoi' or 'Celti' were used by Greeks and Romans for the northern

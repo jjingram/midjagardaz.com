@@ -1,6 +1,8 @@
 ---
-title: The Colour of Trolldómr (Magic)
-layout: page
+title: The Colour of Magic
+layout: post
+author: jeffi
+tags: [magic]
 ---
 
 Trolldómr (Old Norse 'magic, wizardry'), hereafter referred to as simply

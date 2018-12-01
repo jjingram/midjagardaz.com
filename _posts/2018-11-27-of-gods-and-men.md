@@ -1,6 +1,8 @@
 ---
 title: Of Gods and Men
-layout: page
+layout: post
+author: jeffi
+tags: [gods, linguistics]
 ---
 
 > In their ancient songs, their only way of remembering or recording the past,

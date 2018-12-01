@@ -6,17 +6,6 @@ image:
 title: Midjagardaz
 ---
 
-**Notice:** This site is a work in progress.
-{: .notice--info }
+Welcome to Midjagardaz! A site and blog about Germanic traditions.
 
-Welcome to Midjagardaz! A site dedicated to a reconstruction of Germanic
-traditions. Here you'll find information pertaining to Germanic traditions such
-as gods, wights, and rituals.
-
-There isn't much literary evidence for Germanic traditions so the major goal
-will be to pull from comparative mythology, linguistics, and archaeology. There
-will be scholarly and sound inference to give the reconstruction substance.
-
-**Warning!** The author of this site has no formal qualifications in
-linguistics, history, or relgion, just a fascination with the subjects.
-{: .notice--warning}
+# Recent Posts

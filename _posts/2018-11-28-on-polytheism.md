@@ -1,6 +1,8 @@
 ---
 title: On Polytheism
-layout: page
+layout: post
+author: jeffi
+tags: [religion]
 ---
 
 Theism in general is a magnificent beast. From the monotheistic viewpoint that

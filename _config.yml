@@ -16,37 +16,21 @@
 title: Midjagardaz
 email: jarrod.jeffi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A reconstruction of Germanic traditions.
+  A site and blog about Germanic traditions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://midjagardaz.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username: jjingram
+#github_username: jjingram
 logo: /assets/img/logo.jpg
 search_full_content: true
-
-# Collections
-collections:
-  articles:
-    output: true
+read_time: true
+words_per_minute: 200
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/so-simple-theme
 plugins:
   - jekyll-feed
-
-# Site Author
-author:
-  name: Jarrod Jeffrey Ingram
-  picture: /assets/img/jarrod.jpg
-  email: jarrod.jeffi@gmail.com
-  links:
-    - title: Email
-      url: mailto:jarrod.jeffi@gmail.com
-      icon: fas fa-envelope-square
-    - title: GitHub
-      url: https://github.com/jjingram
-      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
@@ -56,6 +40,9 @@ footer_links:
   - title: GitHub
     url: https://github.com/jjingram/midjagardaz.com
     icon: fab fa-github-square
+  - title: Feed
+    url: feed.xml
+    icon: fas fa-rss-square
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
